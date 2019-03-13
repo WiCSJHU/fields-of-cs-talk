@@ -1,1 +1,8 @@
-# fields-of-cs-talk
+# Fields of Computer Scicence Overview
+## a ACMxWiCS Workshop Collaboration
+
+ACM Facebook : https://www.facebook.com/JHUACM/ 
+ACM Website : https://acm.jhu.edu/ 
+
+WiCS Facebook : https://www.facebook.com/jhuwics
+WiCS Website : http://wics.acm.jhu.edu/

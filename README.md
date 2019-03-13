@@ -1,5 +1,5 @@
 # Fields of Computer Scicence Overview
-## a ACMxWiCS Workshop Collaboration
+## an ACMxWiCS Workshop Collaboration
 
 ACM Facebook : https://www.facebook.com/JHUACM/ 
 ACM Website : https://acm.jhu.edu/ 
